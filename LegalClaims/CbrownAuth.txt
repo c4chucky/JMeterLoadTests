@@ -1,0 +1,2 @@
+# JMeter generated Authorization file
+http://legalclaimstest.clientele.local/	cbrown				BASIC

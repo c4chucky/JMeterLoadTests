@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="240" it="0" lt="239" ct="180" ts="1541076695028" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-1" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076695267" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-1" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="172" it="0" lt="172" ct="52" ts="1541076695271" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-1" dt="text" by="2499" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/9407309975439/1234/</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="171" ts="1541076696056" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-2" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076696272" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-2" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="170" ct="47" ts="1541076696273" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-2" dt="text" by="2554" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5004115693084/1234/</java.net.URL>
+</httpSample>
+<httpSample t="238" it="0" lt="237" ct="165" ts="1541076697043" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-3" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076697281" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-3" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="146" ct="40" ts="1541076697283" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-3" dt="text" by="2554" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7208075600082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="305" it="0" lt="304" ct="213" ts="1541076698047" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-4" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076698351" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-4" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="148" it="0" lt="148" ct="54" ts="1541076698353" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-4" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5608040845088/1234/</java.net.URL>
+</httpSample>
+<httpSample t="256" it="0" lt="255" ct="185" ts="1541076699055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-5" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076699311" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-5" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="213" ct="74" ts="1541076699312" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-5" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5004115731082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="240" it="0" lt="240" ct="156" ts="1541076700055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-6" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076700295" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-6" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="203" it="0" lt="203" ct="56" ts="1541076700297" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-6" dt="text" by="2545" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5004115762087/1234/</java.net.URL>
+</httpSample>
+<httpSample t="284" it="0" lt="284" ct="173" ts="1541076701046" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-7" dt="text" by="9869" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076701330" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-7" dt="text" by="7480" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="53" ts="1541076701332" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-7" dt="text" by="2544" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5004115801083/1234/</java.net.URL>
+</httpSample>
+<httpSample t="237" it="0" lt="236" ct="176" ts="1541076702047" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-8" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076702284" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-8" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="201" it="0" lt="201" ct="57" ts="1541076702286" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-8" dt="text" by="2543" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5004120057085/1234/</java.net.URL>
+</httpSample>
+<httpSample t="317" it="0" lt="317" ct="230" ts="1541076703054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-9" dt="text" by="9869" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076703371" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-9" dt="text" by="7480" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="311" it="0" lt="311" ct="216" ts="1541076704055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-10" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076704366" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-10" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="313" it="0" lt="313" ct="89" ts="1541076704368" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-10" dt="text" by="2548" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109250153081/1234/</java.net.URL>
+</httpSample>
+<httpSample t="291" it="0" lt="290" ct="213" ts="1541076705046" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-11" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076705337" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-11" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="289" it="0" lt="289" ct="78" ts="1541076705339" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-11" dt="text" by="2543" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109250161084/1234/</java.net.URL>
+</httpSample>
+<httpSample t="443" it="0" lt="442" ct="338" ts="1541076706046" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-12" dt="text" by="9870" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076706489" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-12" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="3281" it="0" lt="3281" ct="3067" ts="1541076703373" s="false" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-9" dt="text" by="2545" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 3,281 milliseconds, but should not have lasted longer than 2,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5004120099087/1234/</java.net.URL>
+</httpSample>
+<httpSample t="302" it="0" lt="302" ct="81" ts="1541076706491" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-12" dt="text" by="2549" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109250167081/1234/</java.net.URL>
+</httpSample>
+<httpSample t="338" it="0" lt="337" ct="220" ts="1541076707055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-13" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076707393" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-13" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="392" it="0" lt="391" ct="91" ts="1541076707395" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-13" dt="text" by="2548" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7501050940089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="362" it="0" lt="362" ct="255" ts="1541076708055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-14" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076708417" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-14" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="362" it="0" lt="362" ct="86" ts="1541076708419" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-14" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/3410105169088/1234/</java.net.URL>
+</httpSample>
+<httpSample t="379" it="0" lt="379" ct="251" ts="1541076709046" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-15" dt="text" by="9870" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076709425" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-15" dt="text" by="7481" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="416" it="0" lt="416" ct="123" ts="1541076709427" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-15" dt="text" by="2567" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7208090308083/1234/</java.net.URL>
+</httpSample>
+<httpSample t="359" it="0" lt="358" ct="237" ts="1541076710045" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-16" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076710404" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-16" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="352" it="0" lt="352" ct="93" ts="1541076710406" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-16" dt="text" by="2559" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/3512205055081/1234/</java.net.URL>
+</httpSample>
+<httpSample t="217" it="0" lt="216" ct="167" ts="1541076711055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-17" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076711272" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-17" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="167" it="0" lt="167" ct="51" ts="1541076711274" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-17" dt="text" by="2554" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109250426081/1234/</java.net.URL>
+</httpSample>
+<httpSample t="237" it="0" lt="237" ct="176" ts="1541076712056" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-18" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076712293" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-18" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="65" ts="1541076712296" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-18" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7407145236089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="461" it="0" lt="461" ct="134" ts="1541076713047" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-19" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076713508" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-19" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="67" ts="1541076713511" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-19" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7407145236089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="154" ct="131" ts="1541076714047" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-20" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076714202" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-20" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="78" ct="42" ts="1541076714204" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-20" dt="text" by="2552" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7409180368082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="228" it="0" lt="227" ct="127" ts="1541076715054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-21" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076715281" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-21" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="84" ct="33" ts="1541076715284" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-21" dt="text" by="2553" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/8102040678084/1234/</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="256" ct="198" ts="1541076716056" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-22" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076716313" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-22" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="162" it="0" lt="162" ct="42" ts="1541076716314" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-22" dt="text" by="2548" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/8104066087083/1234/</java.net.URL>
+</httpSample>
+<httpSample t="282" it="0" lt="282" ct="207" ts="1541076717052" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-23" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076717334" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-23" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="245" it="0" lt="245" ct="78" ts="1541076717336" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-23" dt="text" by="2557" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7302040657085/1234/</java.net.URL>
+</httpSample>
+<httpSample t="325" it="0" lt="325" ct="220" ts="1541076718053" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-24" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076718378" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-24" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="76" ts="1541076718379" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-24" dt="text" by="2548" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="227" it="0" lt="227" ct="166" ts="1541076719056" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-25" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076719283" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-25" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="58" ts="1541076719285" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-25" dt="text" by="2548" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="726" it="0" lt="725" ct="438" ts="1541076720056" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-26" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076720782" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-26" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="241" it="0" lt="240" ct="161" ts="1541076721052" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-27" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076721293" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-27" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="180" it="0" lt="180" ct="55" ts="1541076721295" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-27" dt="text" by="2549" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="247" it="0" lt="246" ct="178" ts="1541076722052" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-28" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076722298" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-28" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="242" it="0" lt="242" ct="64" ts="1541076722300" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-28" dt="text" by="2548" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="166" ts="1541076723057" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-29" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076723270" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-29" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="165" it="0" lt="165" ct="50" ts="1541076723272" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-29" dt="text" by="2549" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="1045" it="0" lt="1044" ct="450" ts="1541076724056" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-30" dt="text" by="9871" sby="178" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076725100" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-30" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="185" it="0" lt="185" ct="77" ts="1541076725102" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-30" dt="text" by="2549" sby="2319" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="239" it="0" lt="238" ct="199" ts="1541076725053" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-31" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076725291" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-31" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="47" ts="1541076725294" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-31" dt="text" by="2549" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="198" it="0" lt="198" ct="167" ts="1541076726053" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-32" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076726251" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-32" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="77" ct="32" ts="1541076726253" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-32" dt="text" by="2549" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="165" it="0" lt="165" ct="130" ts="1541076727057" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-33" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076727222" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-33" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="65" ct="33" ts="1541076727224" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-33" dt="text" by="2549" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="176" it="0" lt="175" ct="145" ts="1541076728058" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-34" dt="text" by="9868" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076728233" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-34" dt="text" by="7479" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="40" ts="1541076728235" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-34" dt="text" by="2549" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="212" ct="125" ts="1541076729054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-35" dt="text" by="9871" sby="178" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076729266" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-35" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="78" ct="34" ts="1541076729268" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-35" dt="text" by="2546" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/8009240337082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="9096" it="0" lt="9096" ct="9051" ts="1541076720784" s="false" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-26" dt="text" by="2548" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 9,096 milliseconds, but should not have lasted longer than 2,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7206225325089/1234/</java.net.URL>
+</httpSample>
+<httpSample t="195" it="0" lt="194" ct="165" ts="1541076730054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-36" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076730249" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-36" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="230" it="0" lt="230" ct="41" ts="1541076730251" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-36" dt="text" by="2556" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/3707065257088/1234/</java.net.URL>
+</httpSample>
+<httpSample t="242" it="0" lt="242" ct="180" ts="1541076731058" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-37" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076731300" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-37" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="225" it="0" lt="225" ct="63" ts="1541076731302" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-37" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5606135795085/1234/</java.net.URL>
+</httpSample>
+<httpSample t="235" it="0" lt="235" ct="165" ts="1541076732058" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-38" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076732293" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-38" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="54" ts="1541076732296" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-38" dt="text" by="2547" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5606135795085/1234/</java.net.URL>
+</httpSample>
+<httpSample t="203" it="0" lt="202" ct="156" ts="1541076733054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-39" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076733257" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-39" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="150" ct="48" ts="1541076733259" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-39" dt="text" by="2510" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7301115141082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="496" it="0" lt="495" ct="436" ts="1541076734054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-40" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076734550" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-40" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="179" it="0" lt="179" ct="56" ts="1541076734552" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-40" dt="text" by="2510" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/8803275400082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="245" it="0" lt="244" ct="182" ts="1541076735059" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-41" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076735303" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-41" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="293" it="0" lt="293" ct="59" ts="1541076735305" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-41" dt="text" by="2512" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/8803275400082/1234/</java.net.URL>
+</httpSample>
+<httpSample t="267" it="0" lt="267" ct="191" ts="1541076736059" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-42" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076736326" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-42" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="787" it="0" lt="787" ct="74" ts="1541076736328" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-42" dt="text" by="2498" sby="2319" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/4703315532080/1234/</java.net.URL>
+</httpSample>
+<httpSample t="255" it="0" lt="255" ct="191" ts="1541076737054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-43" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076737309" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-43" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="131" it="0" lt="131" ct="44" ts="1541076737311" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-43" dt="text" by="2499" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/4703315532080/1234/</java.net.URL>
+</httpSample>
+<httpSample t="243" it="0" lt="242" ct="173" ts="1541076738054" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-44" dt="text" by="9869" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076738297" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-44" dt="text" by="7480" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="62" ts="1541076738299" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-44" dt="text" by="2504" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/7910115549084/1234/</java.net.URL>
+</httpSample>
+<httpSample t="323" it="0" lt="322" ct="213" ts="1541076739059" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-45" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076739382" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-45" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="314" it="0" lt="314" ct="90" ts="1541076739384" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-45" dt="text" by="2556" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/6112210622087/1234/</java.net.URL>
+</httpSample>
+<httpSample t="324" it="0" lt="323" ct="215" ts="1541076740059" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-46" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076740383" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-46" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="323" it="0" lt="323" ct="84" ts="1541076740385" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-46" dt="text" by="2549" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109250231085/1234/</java.net.URL>
+</httpSample>
+<httpSample t="320" it="0" lt="319" ct="214" ts="1541076741055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-47" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076741375" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-47" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="332" it="0" lt="332" ct="86" ts="1541076741377" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-47" dt="text" by="2554" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109295555084/1234/</java.net.URL>
+</httpSample>
+<httpSample t="280" it="0" lt="279" ct="182" ts="1541076742055" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-48" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076742335" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-48" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="336" it="0" lt="336" ct="88" ts="1541076742337" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-48" dt="text" by="2546" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109295182087/1234/</java.net.URL>
+</httpSample>
+<httpSample t="233" it="0" lt="232" ct="205" ts="1541076743058" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-49" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="1" it="0" lt="0" ct="0" ts="1541076743290" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-49" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="92" ct="37" ts="1541076743293" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-49" dt="text" by="2549" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109295126084/1234/</java.net.URL>
+</httpSample>
+<httpSample t="243" it="0" lt="243" ct="201" ts="1541076744059" s="true" lb="TestThirdPartyLogin" rc="200" rm="OK" tn="Users 1-50" dt="text" by="9871" sby="178" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <sample t="0" it="0" lt="0" ct="0" ts="1541076744302" s="true" lb="TestThirdPartyLogin-0" rc="200" rm="OK" tn="Users 1-50" dt="text" by="7482" sby="0" ng="0" na="0"/>
+  <java.net.URL>https://rest-test.clientele.co.za/api/login/testoutsys-5b20-47bc-8362-797de55304b9/</java.net.URL>
+</httpSample>
+<httpSample t="71" it="0" lt="71" ct="32" ts="1541076744304" s="true" lb="TestUserLogin" rc="200" rm="OK" tn="Users 1-50" dt="text" by="2562" sby="2319" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rest-test.clientele.co.za/api/user/login_id_passport/5109290692080/1234/</java.net.URL>
+</httpSample>
+
+</testResults>
